@@ -64,7 +64,8 @@ Released free for anyone to use.
   rate (30%), Bayesian time-decayed client ratings (25%), responsiveness (20%),
   dispute record (15%) and trust signals (10%). Unverified Pros are capped at 70.
   Bands: Elite 90+, Trusted 75–89, Rising 55–74, Probation 35–54, Suspended ≤34.
-  See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md#trust-score).
+  See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md#trust-score), or
+  [docs/diagrams/](docs/diagrams/) for the same thing in four figures.
 - **Escrow-style job flow** — 30% deposit on start, the balance released only on
   client confirmation, with a dispute path an admin resolves.
 - **Subscriptions** — Free / Pro / Elite tiers gating leads, portfolio size,
@@ -222,6 +223,7 @@ Open <http://localhost:5173> and sign in.
 | [docs/API.md](docs/API.md) | Response envelope, auth, rate limits, and every endpoint |
 | [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) | Production build, PM2, nginx, webhooks, hardening checklist |
 | [docs/DEMO.md](docs/DEMO.md) | Hosting a public demo: free-tier services, demo mode, scheduled resets, costs |
+| [docs/diagrams/](docs/diagrams/) | How the trust score works, explained in four figures |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Development workflow and code conventions |
 | [SECURITY.md](SECURITY.md) | Reporting vulnerabilities, and what this codebase does and does not protect |
 

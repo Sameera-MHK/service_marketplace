@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<rect width="900" height="440" fill="#fcfcfb"/>
+<text x="44" y="44" font-size="20" font-weight="700" fill="#0b0b0b">Decay tilts reviews against each other &#8212; it does not age them</text>
+<text x="44" y="70" font-size="14" fill="#52514e">The weights are normalised by their own sum, so a uniform age cancels out completely.</text>
+<text x="280" y="134" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="end">10 reviews, all 5&#9733;</text>
+<text x="280" y="150" font-size="11" font-weight="400" fill="#8a8884" text-anchor="end">posted today</text>
+<rect x="300" y="122" width="255.0" height="24" rx="4" fill="#2a78d6"/>
+<text x="565" y="140" font-size="14.5" font-weight="700" fill="#0b0b0b" text-anchor="start">85</text>
+<text x="280" y="192" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="end">10 reviews, all 5&#9733;</text>
+<text x="280" y="208" font-size="11" font-weight="400" fill="#8a8884" text-anchor="end">posted two years ago</text>
+<rect x="300" y="180" width="255.0" height="24" rx="4" fill="#2a78d6"/>
+<text x="565" y="198" font-size="14.5" font-weight="700" fill="#0b0b0b" text-anchor="start">85</text>
+<text x="280" y="250" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="end">5&#215;5&#9733; (2 yrs) + 5&#215;2&#9733; (today)</text>
+<text x="280" y="266" font-size="11" font-weight="400" fill="#8a8884" text-anchor="end">if age were ignored &#8212; mean 3.5</text>
+<rect x="300" y="238" width="228.0" height="24" rx="4" fill="#e8e7e4"/>
+<text x="538" y="256" font-size="14.5" font-weight="700" fill="#8a8884" text-anchor="start">76</text>
+<text x="280" y="308" font-size="12.5" font-weight="600" fill="#0b0b0b" text-anchor="end">5&#215;5&#9733; (2 yrs) + 5&#215;2&#9733; (today)</text>
+<text x="280" y="324" font-size="11" font-weight="400" fill="#8a8884" text-anchor="end">with decay &#8212; weighted mean 2.30</text>
+<rect x="300" y="296" width="204.0" height="24" rx="4" fill="#2a78d6"/>
+<text x="514" y="314" font-size="14.5" font-weight="700" fill="#0b0b0b" text-anchor="start">68</text>
+<line x1="300" y1="110" x2="300" y2="332" stroke="#d3d2cd" stroke-width="1"/>
+<path d="M 601.0 134 q 20 0 20 22 q 0 22 -20 22" fill="none" stroke="#8a8884" stroke-width="1.5"/>
+<text x="633" y="152" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="start">Identical.</text>
+<text x="633" y="169" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">No aging penalty.</text>
+<path d="M 568.0 250 q 22 0 22 22 q 0 22 -30 22" fill="none" stroke="#d03b3b" stroke-width="1.5"/>
+<text x="602" y="268" font-size="13" font-weight="700" fill="#d03b3b" text-anchor="start">8 points lower.</text>
+<text x="602" y="285" font-size="12" font-weight="400" fill="#52514e" text-anchor="start">Recent work dominates.</text>
+<line x1="44" y1="382" x2="856" y2="382" stroke="#e8e7e4" stroke-width="1"/>
+<text x="44" y="406" font-size="12.5" font-weight="400" fill="#52514e" text-anchor="start">A Pro who was excellent three years ago and has done nothing since keeps their full rating score.</text>
+</svg>

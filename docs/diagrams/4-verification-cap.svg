@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<rect width="900" height="470" fill="#fcfcfb"/>
+<text x="44" y="44" font-size="20" font-weight="700" fill="#0b0b0b">Why unverified Pros stop at exactly 70</text>
+<text x="44" y="70" font-size="14" fill="#52514e">The cap is not a score adjustment. It is a wall at the top of the third band.</text>
+<line x1="601.8" y1="152" x2="601.8" y2="332" stroke="#d03b3b" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="590" y="146" font-size="13.5" font-weight="700" fill="#d03b3b" text-anchor="end">hard cap &#8212; 70</text>
+<text x="804" y="136" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="end">ID verified &#8212; 99</text>
+<circle cx="820.5" cy="132.0" r="7" fill="#fcfcfb"/><circle cx="820.5" cy="132.0" r="5" fill="#104281"/>
+<text x="799" y="190" font-size="13" font-weight="600" fill="#52514e" text-anchor="end">same Pro, no ID &#8212; 94</text>
+<circle cx="782.8" cy="212.0" r="7" fill="#fcfcfb"/><circle cx="782.8" cy="212.0" r="5" fill="#8a8884"/>
+<line x1="772.8" y1="212" x2="611.8" y2="212" stroke="#d03b3b" stroke-width="2"/>
+<path d="M 611.8 206 L 602.8 212 L 611.8 218 Z" fill="#d03b3b"/>
+<text x="692" y="236" font-size="12.5" font-weight="700" fill="#d03b3b" text-anchor="middle">&#8722;24 points</text>
+<rect x="74.0" y="278" width="261.9" height="46" rx="3" fill="#86b6ef"/>
+<text x="205" y="307" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Suspended</text>
+<text x="205" y="344" font-size="11.5" font-weight="400" fill="#8a8884" text-anchor="middle">0&#8211;34</text>
+<rect x="337.9" y="278" width="148.8" height="46" rx="3" fill="#5598e7"/>
+<text x="412" y="307" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Probation</text>
+<text x="412" y="344" font-size="11.5" font-weight="400" fill="#8a8884" text-anchor="middle">35&#8211;54</text>
+<rect x="488.7" y="278" width="148.8" height="46" rx="3" fill="#2a78d6"/>
+<text x="563" y="307" font-size="13" font-weight="600" fill="#0b0b0b" text-anchor="middle">Rising</text>
+<text x="563" y="344" font-size="11.5" font-weight="400" fill="#8a8884" text-anchor="middle">55&#8211;74</text>
+<rect x="639.5" y="278" width="111.1" height="46" rx="3" fill="#1c5cab"/>
+<text x="695" y="307" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle">Trusted</text>
+<text x="695" y="344" font-size="11.5" font-weight="400" fill="#8a8884" text-anchor="middle">75&#8211;89</text>
+<rect x="752.6" y="278" width="80.9" height="46" rx="3" fill="#104281"/>
+<text x="793" y="307" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle">Elite</text>
+<text x="793" y="344" font-size="11.5" font-weight="400" fill="#8a8884" text-anchor="middle">90&#8211;100</text>
+<line x1="44" y1="374" x2="856" y2="374" stroke="#e8e7e4" stroke-width="1"/>
+<text x="44" y="398" font-size="13" font-weight="400" fill="#52514e" text-anchor="start">Losing the +50 trust points costs only 5 of them &#8212; trust is weighted 0.10.</text>
+<text x="44" y="420" font-size="13" font-weight="400" fill="#52514e" text-anchor="start">The cap removes the other 24 and lands the Pro at the very top of &#8220;Rising&#8221;.</text>
+<text x="44" y="446" font-size="13" font-weight="700" fill="#0b0b0b" text-anchor="start">Without ID verification, &#8220;Trusted&#8221; and &#8220;Elite&#8221; are unreachable at any level of performance.</text>
+</svg>

@@ -147,9 +147,18 @@ Bands: `elite` 90+, `trusted` 75–89, `rising` 55–74, `probation` 35–54,
 `suspended` ≤34. The breakdown is stored on the profile so the dashboard can
 show a Pro exactly which component is holding them back.
 
-The Bayesian adjustment is what stops a Pro with a single five-star review from
-outranking one with fifty averaging 4.6, and the time decay keeps an old
-reputation from carrying indefinitely.
+The Bayesian adjustment is what stops a Pro with three five-star reviews from
+outranking one with two hundred averaging 4.6 — 82 against 89, where the raw
+means would say 100 against 90.
+
+The time decay is subtler than it looks. Weights are normalised by their own
+sum, so a *uniform* age cancels out entirely: ten five-star reviews score the
+same whether they arrived today or two years ago. Decay tilts reviews against
+each other, making recent work outweigh old work when a Pro has both — it is
+not an aging penalty.
+
+[docs/diagrams/](diagrams/) works through all of this in four figures, with
+every number tabulated.
 
 ## Job and escrow flow
 
