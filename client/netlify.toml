@@ -1,0 +1,15 @@
+# Netlify config for the frontend. Set the base directory to `client`.
+[build]
+  command   = "npm run build"
+  publish   = "dist"
+
+# SPA fallback — every unknown path renders the app.
+[[redirects]]
+  from   = "/*"
+  to     = "/index.html"
+  status = 200
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

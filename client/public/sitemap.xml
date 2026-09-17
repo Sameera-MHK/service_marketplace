@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- ── Core pages ──────────────────────────────────────────────── -->
+  <url>
+    <loc>https://skillhub.example.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://skillhub.example.com/services</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://skillhub.example.com/professionals</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://skillhub.example.com/businesses</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://skillhub.example.com/live-classes</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://skillhub.example.com/shop</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ── Legal ───────────────────────────────────────────────────── -->
+  <url>
+    <loc>https://skillhub.example.com/terms</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://skillhub.example.com/privacy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!--
+    Dynamic profile pages (/pro/:id, /businesses/:id, /live-classes/:id,
+    /shop/:id) are not listed here because they are generated at runtime.
+
+    To include them, generate this file server-side with a script that
+    queries MongoDB and outputs one <url> entry per document, e.g.:
+
+    <url>
+      <loc>https://skillhub.example.com/pro/WORKER_SLUG</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+
+    Run that script as part of your deployment pipeline and serve the
+    output as /sitemap.xml (or split into a sitemap index file).
+  -->
+
+</urlset>

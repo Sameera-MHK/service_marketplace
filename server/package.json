@@ -1,0 +1,53 @@
+{
+  "name": "skillhub-server",
+  "version": "1.0.0",
+  "description": "SkillHub — open-source local services marketplace API (Express + MongoDB)",
+  "license": "MIT",
+  "author": "samEEra",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "seed": "node seeds/seed.js",
+    "reseed": "node seeds/seed.js && node seeds/seedGroups.js && node seeds/seedCategories.js",
+    "seed:groups": "node seeds/seedGroups.js",
+    "seed:categories": "node seeds/seedCategories.js",
+    "seed:images": "node seeds/seedCoverImages.js",
+    "seed:images:overwrite": "node seeds/seedCoverImages.js --overwrite",
+    "migrate:slugs": "node seeds/migrateCategorySlugs.js",
+    "migrate:slugs:dry": "node seeds/migrateCategorySlugs.js --dry-run",
+    "migrate:biz-photos": "node seeds/addBusinessPhotos.js",
+    "migrate:biz-photos:dry": "node seeds/addBusinessPhotos.js --dry-run",
+    "db:clean:dry": "node seeds/cleanDb.js --dry-run",
+    "db:clean": "node seeds/cleanDb.js",
+    "seed:test-users": "node seeds/addTestUsers.js",
+    "clean:test-users:dry": "node seeds/cleanTestUsers.js --dry-run",
+    "clean:test-users": "node seeds/cleanTestUsers.js --force",
+    "demo:reset": "node seeds/demoReset.js"
+  },
+  "dependencies": {
+    "@agendajs/mongo-backend": "^4.0.2",
+    "agenda": "^6.2.5",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.41.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^8.5.0",
+    "express-validator": "^7.0.1",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "livekit-server-sdk": "^2.15.3",
+    "mongoose": "^8.0.3",
+    "multer": "^1.4.5-lts.1",
+    "multer-storage-cloudinary": "^4.0.0",
+    "node-cron": "^4.2.1",
+    "nodemailer": "^8.0.7",
+    "streamifier": "^0.1.1",
+    "stripe": "^22.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

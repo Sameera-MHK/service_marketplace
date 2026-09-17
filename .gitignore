@@ -1,0 +1,55 @@
+# ── Dependencies ──────────────────────────────────────────────────────────────
+node_modules/
+.pnp
+.pnp.js
+
+# ── Environment / secrets ─────────────────────────────────────────────────────
+# Never commit real credentials. Only *.example files belong in the repo.
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+
+# ── Build output ──────────────────────────────────────────────────────────────
+dist/
+build/
+.vite/
+*.tsbuildinfo
+
+# ── Runtime data ──────────────────────────────────────────────────────────────
+server/uploads/*
+!server/uploads/.gitkeep
+server/logs/*
+!server/logs/.gitkeep
+pids/
+*.pid
+*.seed
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+# `logs/` alone would exclude the directory itself, and git does not descend
+# into an excluded directory — so the .gitkeep below could never be rescued.
+logs/*
+!server/logs/.gitkeep
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ── Test / coverage ───────────────────────────────────────────────────────────
+coverage/
+.nyc_output/
+
+# ── Editors & OS ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Tooling ───────────────────────────────────────────────────────────────────
+.claude/settings.local.json
+.eslintcache

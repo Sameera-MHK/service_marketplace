@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Disallow private/dashboard areas
+Disallow: /dashboard/
+Disallow: /admin/
+Disallow: /reset-password/
+Disallow: /forgot-password
+
+# Crawl-delay for polite bots
+Crawl-delay: 10
+
+Sitemap: https://skillhub.example.com/sitemap.xml

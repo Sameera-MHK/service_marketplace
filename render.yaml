@@ -1,0 +1,32 @@
+# Render blueprint for the API. Point Render at this repo and it reads this file.
+# The frontend deploys separately (Vercel or Netlify) — see docs/DEMO.md.
+services:
+  - type: web
+    name: skillhub-api
+    runtime: node
+    plan: free          # free instances sleep after 15 min idle; expect a cold start
+    rootDir: server
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_VERSION
+        value: "20"
+      # Generated once by Render and kept stable across deploys.
+      - key: JWT_SECRET
+        generateValue: true
+      - key: JWT_REFRESH_SECRET
+        generateValue: true
+      # Set these in the Render dashboard — never commit real values.
+      - key: MONGO_URI
+        sync: false
+      - key: CLIENT_URL
+        sync: false
+      - key: API_URL
+        sync: false
+      - key: DEMO_MODE
+        value: "true"
+      - key: DEFAULT_CURRENCY
+        value: USD
+      - key: SERVICE_AREA
+        value: your area

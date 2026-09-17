@@ -1,0 +1,567 @@
+{
+  "nav": {
+    "findWorkers": "Find Pros",
+    "findBusinesses": "Find Businesses",
+    "login": "Login",
+    "signUp": "Sign Up",
+    "dashboard": "Dashboard",
+    "adminPanel": "Admin Panel",
+    "logout": "Logout"
+  },
+  "landing": {
+    "hero": {
+      "tagline": "Local Skills Platform",
+      "titleLine1": "Hire. Learn.",
+      "titleLine2": "Create.",
+      "subtitle": "Book verified professionals, join live classes, and discover handmade art — everything you need from your most trusted local skills platform.",
+      "ctaFind": "Find a Pro",
+      "ctaJoin": "List Your Skills Free",
+      "pillClientsLabel": "For Clients",
+      "pillClientsCta": "Book a Service",
+      "pillProsLabel": "For Pros",
+      "pillProsCta": "Start Earning",
+      "pillBusinessesLabel": "For Businesses",
+      "pillBusinessesCta": "Get Listed",
+      "findWorker": "Find a Pro",
+      "registerWorker": "Register as a Pro"
+    },
+    "featured": {
+      "eyebrow": "⭐ Featured Professionals",
+      "title": "Trusted by Clients Everywhere",
+      "subtitle": "Hand-picked, verified professionals ready to take your job today",
+      "viewAll": "View all Pros"
+    },
+    "grow": {
+      "eyebrow": "Built for local communities",
+      "titleLine1": "Pros & Businesses —",
+      "titleLine2": "one platform, all services",
+      "subtitle": "Whether you're a skilled tradesperson, a local salon, a catering company or a tutoring centre — SkillHub puts your services in front of thousands of clients across every district you serve.",
+      "statProsLabel": "Pros & Businesses",
+      "statCategoriesLabel": "Categories",
+      "statDistrictsLabel": "Districts",
+      "ctaJoinPro": "🔨 Join as Pro",
+      "ctaJoinBusiness": "🏪 Register Business",
+      "badgeTitle": "Verified Professionals",
+      "badgeSubtitle": "ID checked · Score ranked"
+    },
+    "trust": {
+      "title": "Why clients trust SkillHub",
+      "scoreTitle": "SkillHub Score",
+      "scoreDesc": "Every Pro is scored on completion rate, ratings, responsiveness and more.",
+      "idTitle": "ID Verified",
+      "idDesc": "Government-issued ID verified for every individual Pro on the platform.",
+      "businessesTitle": "Verified Businesses",
+      "businessesDesc": "Shops and companies are reviewed and approved by our admin team.",
+      "paymentsTitle": "Secure Payments",
+      "paymentsDesc": "Escrow holds funds until you confirm the job is done to your satisfaction."
+    },
+    "providerCta": {
+      "eyebrow": "Become a Provider",
+      "titleLine1": "Post your service",
+      "titleLine2": "in a minute",
+      "cta": "Join Us"
+    },
+    "contact": {
+      "eyebrow": "Still have questions?",
+      "title": "Send us a message",
+      "subtitle": "We usually reply within one business day",
+      "successTitle": "Message received!",
+      "successDesc": "We'll get back to you as soon as possible.",
+      "sendAnother": "Send another message",
+      "nameLabel": "Your Name",
+      "namePlaceholder": "Alex Morgan",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "alex@example.com",
+      "topicLabel": "Topic",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Tell us how we can help...",
+      "sending": "Sending…",
+      "send": "Send Message →",
+      "errorGeneric": "Something went wrong. Please try again.",
+      "topics": {
+        "general": "General Question",
+        "subscription": "Subscription & Billing",
+        "dispute": "Dispute or Complaint",
+        "partnership": "Partnership / Advertising",
+        "other": "Other"
+      }
+    },
+    "browse": {
+      "title": "Browse by Category",
+      "subtitle": "From home repairs to tutoring — find the right Pro for any job",
+      "viewAll": "View all {{count}} categories →",
+      "services": "{{count}} services",
+      "viewAllSvc": "Browse all {{count}} services →"
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "step1Title": "Search",
+      "step1Desc": "Filter by category, district, and SkillHub Score to find the right Pro.",
+      "step2Title": "Book",
+      "step2Desc": "Send a job request directly to the Pro you choose.",
+      "step3Title": "Pay Safely",
+      "step3Desc": "Payment is held in escrow and released when the job is done."
+    },
+    "howSkillHubWorks": {
+      "eyebrow": "Simple & Transparent",
+      "title": "How SkillHub works",
+      "forClients": "For Clients",
+      "forProsBusinesses": "For Pros & Businesses",
+      "client1Title": "Browse & Search",
+      "client1Desc": "Search Pros or businesses by category, district and SkillHub Score.",
+      "client2Title": "Book & Confirm",
+      "client2Desc": "Post a job or enquire directly. Agree on price and timeline.",
+      "client3Title": "Pay & Review",
+      "client3Desc": "Funds held in escrow — released only when you approve the work.",
+      "pro1Title": "Create your Profile",
+      "pro1Desc": "Register as a Pro or business, complete your profile in minutes.",
+      "pro2Title": "Get Discovered",
+      "pro2Desc": "Appear in search results, get job leads and client enquiries automatically.",
+      "pro3Title": "Earn & Grow",
+      "pro3Desc": "Complete jobs, collect payments, build your score and reputation over time."
+    },
+    "pricing": {
+      "title": "Simple Pricing for Pros",
+      "subtitle": "Start free — upgrade when you're ready to grow",
+      "free": "Free",
+      "pro": "Pro",
+      "elite": "Elite",
+      "freePrice": "$0/month",
+      "proPrice": "$9/month",
+      "elitePrice": "$19/month",
+      "getStarted": "Get Started",
+      "upgrade": "Upgrade to Pro",
+      "upgradeElite": "Upgrade to Elite",
+      "mostPopular": "Most Popular",
+      "freeFeatures": [
+        "3 leads per month",
+        "Basic profile",
+        "SkillHub Score"
+      ],
+      "proFeatures": [
+        "Unlimited leads",
+        "Priority listing",
+        "Pro badge",
+        "Score analytics"
+      ],
+      "eliteFeatures": [
+        "Everything in Pro",
+        "Elite badge",
+        "Top search placement",
+        "Dedicated support"
+      ]
+    },
+    "footer": {
+      "copy": "© 2026 SkillHub Marketplace · Your trusted local gig platform",
+      "terms": "Terms & Conditions",
+      "privacy": "Privacy Policy",
+      "contact": "Contact"
+    },
+    "faq": {
+      "eyebrow": "Got questions?",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Everything you need to know about SkillHub — for clients, Pros, and businesses.",
+      "paymentInfo": "Payments via bank transfer, mobile money, digital wallet or online banking · Admin-verified within 24 hours",
+      "groups": {
+        "clients": {
+          "label": "👤 For Clients",
+          "items": [
+            {
+              "q": "Is it free to use SkillHub as a client?",
+              "a": "Yes — browsing profiles, searching services, and posting jobs is completely free. You only pay the Pro or business directly for their service."
+            },
+            {
+              "q": "How is my payment protected?",
+              "a": "A 30% deposit is paid directly to the Pro once you agree on a rate. The remaining 70% is released by you after the work is confirmed complete. If something goes wrong before you release payment, raise a dispute and our team will mediate."
+            },
+            {
+              "q": "How do I contact a Pro or business?",
+              "a": "Create a free account and log in — contact details (phone, WhatsApp, social links) are only shown to authenticated users. This ensures all interactions stay traceable and both parties are protected."
+            },
+            {
+              "q": "What if I'm not happy with the work?",
+              "a": "You can raise a dispute directly from your dashboard. Our team reviews the case, considers the Pro's SkillHub Score history, and mediates a fair resolution."
+            },
+            {
+              "q": "Are Pros and businesses verified?",
+              "a": "Yes. Individual Pros are verified with a government-issued photo ID. Businesses are reviewed and approved by our admin team before appearing publicly."
+            }
+          ]
+        },
+        "workers": {
+          "label": "🔨 For Pros",
+          "items": [
+            {
+              "q": "How do job leads work?",
+              "a": "Clients browse Pros by category and district, review profiles and scores, then send a job request directly to the Pro they choose. Free plan Pros can receive up to 3 requests per month. Pro and Elite Pros get unlimited requests with priority placement in search results."
+            },
+            {
+              "q": "What's the difference between Free, Pro, and Elite?",
+              "a": "Free gets you listed with a basic profile and up to 3 leads/month. Pro ($9/mo) unlocks unlimited leads, portfolio gallery, service offer cards, social links, and priority in search results. Elite ($19/mo) adds featured placement on the landing page and top-of-search positioning."
+            },
+            {
+              "q": "How is my SkillHub Score calculated?",
+              "a": "Your score (0–100) is based on five factors: job completion rate, client star ratings, responsiveness to enquiries, dispute history, and trust signals — ID verification, trade certification, and referral history. Unverified Pros are capped at 70."
+            },
+            {
+              "q": "When does my subscription renew?",
+              "a": "Subscriptions are monthly. You can see your expiry date on your dashboard. To renew, submit a new payment via bank transfer, mobile money, digital wallet or online banking before the expiry date — your plan downgrades to Free automatically if it lapses."
+            },
+            {
+              "q": "Can I show my portfolio and service pricing?",
+              "a": "Yes — Pro and Elite plan Pros can upload up to 12 portfolio photos and create up to 5 (Pro) or 10 (Elite) service offer cards with titles, descriptions, price ranges, and delivery times."
+            }
+          ]
+        },
+        "businesses": {
+          "label": "🏪 For Businesses",
+          "items": [
+            {
+              "q": "How do I register my business?",
+              "a": "Click \"Join as Pro or Business\", select the Business role, enter your business name and type, then complete the onboarding wizard — it takes under five minutes."
+            },
+            {
+              "q": "What information is visible to the public vs. logged-in users?",
+              "a": "Your business name, description, location, category, and opening hours are always public. Phone number, WhatsApp, website, and social media links are only revealed to logged-in users — protecting you from off-platform contact loss."
+            },
+            {
+              "q": "Can I showcase my services and photos?",
+              "a": "Yes — add a full service menu with names, descriptions and price ranges, upload a cover photo plus a gallery, and set your daily opening hours. All visible on your public storefront."
+            },
+            {
+              "q": "How do I get featured on the landing page?",
+              "a": "Upgrade to the Elite plan. Elite businesses are eligible for featured placement on the SkillHub landing page and appear at the top of search results in your category."
+            },
+            {
+              "q": "Is there a verification process for businesses?",
+              "a": "Yes. After you complete onboarding our admin team reviews your profile. Verified businesses display a \"✓ Verified\" badge on their public page, increasing client trust significantly."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "status": {
+    "pending": "Pending",
+    "accepted": "Accepted",
+    "in_progress": "In Progress",
+    "completed": "Completed",
+    "cancelled": "Cancelled",
+    "disputed": "Disputed"
+  },
+  "dashboard": {
+    "client": {
+      "title": "My Jobs",
+      "bookPro": "+ Book a Pro",
+      "cancel": "Cancel",
+      "loading": "Loading…",
+      "activeJobs": "Active Jobs",
+      "pastJobs": "Past Jobs",
+      "empty": {
+        "title": "No jobs yet",
+        "subtitle": "Find a verified Pro, send them a job request, and track everything here.",
+        "bookPro": "Book a Pro",
+        "browsePros": "Browse Pros"
+      },
+      "picker": {
+        "title": "Choose a Worker",
+        "subtitle": "Search by name, trade or skill — then click to book",
+        "searchPlaceholder": "Search name, trade or skill…",
+        "allCategories": "All categories",
+        "search": "Search",
+        "searching": "Searching…",
+        "noWorkers": "No workers found. Try a different search or category.",
+        "browseAll": "Browse all Pros →",
+        "updating": "Updating…",
+        "resultsCount": "{{count}} workers shown — sorted by SkillHub Score",
+        "directoryHint": "Not finding who you need? Browse full directory →",
+        "perDay": "${{min}}–{{max}} / day"
+      },
+      "form": {
+        "title": "Post a Job",
+        "booking": "Booking: {{name}}",
+        "jobTitle": "Job Title",
+        "jobTitlePlaceholder": "e.g. Fix kitchen wiring",
+        "titleRequired": "Title is required",
+        "category": "Category",
+        "selectCategory": "Select category",
+        "categoryRequired": "Category is required",
+        "description": "Description",
+        "descriptionPlaceholder": "Describe the work in detail — materials, access, any special requirements…",
+        "district": "District",
+        "districtPlaceholder": "e.g. Downtown",
+        "districtRequired": "District is required",
+        "agreedRate": "Agreed Rate ($)",
+        "preferredDate": "Preferred Date",
+        "sending": "Sending request…",
+        "send": "Send Job Request",
+        "cancel": "Cancel",
+        "failed": "Failed to post job. Please try again."
+      },
+      "jobCard": {
+        "rateTotal": "${{total}} total · deposit ${{deposit}}",
+        "waiting": "Waiting for worker to accept…",
+        "payDeposit": "Pay Deposit — ${{amount}}",
+        "confirmRelease": "Confirm & Release Payment",
+        "rateWorker": "⭐ Rate Worker",
+        "openDispute": "Open Dispute",
+        "rating": "Rating:",
+        "ratingStar": "{{n}} ★",
+        "reviewPlaceholder": "Leave a review for this worker…",
+        "submitRating": "Submit Rating",
+        "disputePlaceholder": "Describe the issue clearly…",
+        "submitDispute": "Submit Dispute",
+        "cancel": "Cancel"
+      }
+    },
+    "worker": {
+      "title": "Worker Dashboard",
+      "subscription": "⭐ Subscription",
+      "editProfile": "✏️ Edit Profile",
+      "loading": "Loading…",
+      "banner": {
+        "planSuffix": "Plan",
+        "unlimitedExpires": "Unlimited leads · Expires {{date}}",
+        "manage": "Manage",
+        "freePlan": "Free Plan",
+        "leadsUsage": "{{used}} / {{limit}} leads this month",
+        "upgradeNow": "🚀 Upgrade Now",
+        "upgradePro": "Upgrade to Pro",
+        "limitReached": "Lead limit reached — upgrade to Pro to receive more job requests"
+      },
+      "jobRow": {
+        "clientLabel": "Client",
+        "acceptJob": "Accept Job",
+        "markComplete": "Mark Complete"
+      },
+      "featured": {
+        "liveTitle": "Featured Listing Active",
+        "liveDesc": "Your profile appears on the landing page until",
+        "liveBadge": "Live ✓",
+        "pendingTitle": "Featured Request Pending",
+        "pendingDesc": "Submitted {{date}} · Admin will review within 24 hours",
+        "pendingBadge": "Pending",
+        "rejected": "❌ Previous request was not approved — {{reason}}. You can submit a new one.",
+        "title": "Get Featured on Landing Page",
+        "subtitle": "Appear at the top of SkillHub homepage — from $500/week",
+        "getFeatured": "Get Featured →",
+        "cancel": "Cancel",
+        "selectPeriod": "Select Period",
+        "popular": "Popular",
+        "period1Week": "1 Week",
+        "period2Weeks": "2 Weeks",
+        "period1Month": "1 Month",
+        "paymentMethod": "Payment Method",
+        "bankTransfer": "🏦 Bank Transfer",
+        "cashAgent": "💵 Cash to Agent",
+        "transferTo": "💳 Transfer ${{amount}} to:",
+        "transferHint": "Use your name as the payment reference. Transfer must be completed before submitting.",
+        "cashHint": "💵 Pay ${{amount}} to your assigned SkillHub agent and get a receipt number to enter below.",
+        "bankRef": "Bank Transaction Reference",
+        "receiptNum": "Receipt Number",
+        "bankRefPlaceholder": "e.g. TXN123456789",
+        "receiptPlaceholder": "e.g. RCP-00123",
+        "notes": "Notes",
+        "notesOptional": "(optional)",
+        "notesPlaceholder": "Any message for the admin…",
+        "submitting": "Submitting…",
+        "submit": "Submit Request — ${{amount}}",
+        "approvalHint": "Your listing will go live once admin verifies your payment (within 24 hours).",
+        "errPaymentRef": "Please enter your payment reference",
+        "errSubmit": "Failed to submit request"
+      },
+      "storefront": {
+        "lockedTitle": "My Storefront",
+        "lockedTag": "Pro / Elite",
+        "lockedDesc": "Showcase your work with a portfolio gallery and service offer cards on your public profile. Clients can see exactly what you do and what you charge — before they even message you.",
+        "lockedGalleryTitle": "Portfolio Gallery",
+        "lockedGalleryDesc": "Upload up to 12 work photos visible on your public profile",
+        "lockedOffersTitle": "Service Offers",
+        "lockedOffersDesc": "Post up to 5 offer cards with title, price & delivery time",
+        "upgrade": "🚀 Upgrade to unlock Storefront",
+        "title": "🖼️ My Storefront",
+        "offersTab": "Offers ({{used}}/{{max}})",
+        "portfolioTab": "Portfolio ({{count}})",
+        "addOffer": "+ Add new offer",
+        "loading": "Loading…",
+        "deliveryDay": "day",
+        "deliveryDays": "days",
+        "edit": "Edit",
+        "hide": "Hide",
+        "show": "Show",
+        "delete": "Delete",
+        "deleteConfirm": "Delete this offer?",
+        "noOffers": "No offers yet. Add one to show clients exactly what you offer."
+      },
+      "offerForm": {
+        "edit": "Edit Offer",
+        "new": "New Offer",
+        "title": "Title",
+        "titlePlaceholder": "e.g. Full House Wiring",
+        "description": "Description",
+        "descriptionPlaceholder": "What's included, requirements, etc.",
+        "minPrice": "Min Price ($)",
+        "minPricePlaceholder": "5000",
+        "maxPrice": "Max Price ($)",
+        "maxPricePlaceholder": "15000",
+        "delivery": "Delivery (days)",
+        "deliveryPlaceholder": "2",
+        "photos": "Photos (up to 4)",
+        "cancel": "Cancel",
+        "saving": "Saving…",
+        "update": "Update Offer",
+        "create": "Create Offer",
+        "errRequired": "Title and minimum price are required",
+        "errSave": "Failed to save offer"
+      },
+      "portfolio": {
+        "info": "Live photos appear on your public profile. New uploads need admin approval.",
+        "uploading": "Uploading…",
+        "addPhotos": "+ Add Photos",
+        "submitted": "Photos submitted for admin review ✓",
+        "uploadFailed": "Upload failed",
+        "removeConfirm": "Remove this photo?",
+        "liveOnProfile": "Live on profile",
+        "pendingReview": "⏳ Pending review",
+        "empty": "No portfolio photos yet. Add some to stand out!"
+      },
+      "score": {
+        "title": "Your SkillHub Score",
+        "completion": "Completion",
+        "rating": "Rating",
+        "response": "Response",
+        "dispute": "Dispute",
+        "trust": "Trust"
+      },
+      "earnings": {
+        "totalEarned": "Total Earned",
+        "pendingEscrow": "Pending Escrow",
+        "jobsCompleted": "Jobs Completed"
+      },
+      "leads": {
+        "incoming": "Incoming Leads ({{count}})",
+        "active": "Active Jobs ({{count}})",
+        "past": "Past Jobs",
+        "empty": "No jobs yet. Make sure your profile is complete and active."
+      }
+    }
+  },
+  "workers": {
+    "title": "Find a Skilled Pro",
+    "subtitle": "Browse verified Pros near you",
+    "filters": {
+      "category": "Category",
+      "allCategories": "All Categories",
+      "district": "District",
+      "allDistricts": "All Districts",
+      "minScore": "Min Score",
+      "anyScore": "Any Score",
+      "sortBy": "Sort By",
+      "topRated": "Top Rated",
+      "search": "Search",
+      "searchPlaceholder": "Search by name, trade or skill…"
+    },
+    "results": "Showing {{count}} Pros",
+    "noResults": "No Pros found for the selected filters.",
+    "noResultsHint": "Try broadening your search or selecting a different district.",
+    "viewProfile": "View Profile",
+    "perDay": "${{min}}–{{max}} / day",
+    "score": "Score",
+    "page": "Page {{current}} of {{total}}",
+    "searchMode": "Showing results for \"{q}\"",
+    "clearSearch": "Clear search"
+  },
+  "workerProfile": {
+    "about": "About",
+    "noBio": "No bio yet.",
+    "experience": "{{years}} years experience",
+    "languages": "Languages",
+    "districts": "Service Districts",
+    "days": "Available Days",
+    "rate": "Day Rate",
+    "rateValue": "${{min}} – ${{max}}",
+    "certifications": "Certifications",
+    "portfolio": "Portfolio",
+    "noPortfolio": "No portfolio photos yet.",
+    "reviews": "Client Reviews",
+    "noReviews": "No reviews yet.",
+    "bookNow": "Connect Now",
+    "contactWorker": "Contact Pro",
+    "notFound": "Pro not found.",
+    "verified": "Verified",
+    "suspended": "Suspended",
+    "notAccepting": "Not accepting work"
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome back",
+      "subtitle": "Sign in to your SkillHub account",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Sign In",
+      "loading": "Signing in…",
+      "noAccount": "Don't have an account?",
+      "register": "Create one"
+    },
+    "register": {
+      "title": "Create your account",
+      "subtitle": "Join SkillHub — your local gig marketplace",
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone",
+      "password": "Password",
+      "passwordHint": "Min 6 characters",
+      "iAmA": "I am a…",
+      "client": "Client",
+      "clientDesc": "I need work done",
+      "worker": "Pro",
+      "workerDesc": "I offer skilled services",
+      "category": "Category",
+      "selectTrade": "Select your trade",
+      "experienceYears": "Experience (yrs)",
+      "dayRateMin": "Day Rate Min ($)",
+      "dayRateMax": "Day Rate Max ($)",
+      "agreeTerms": "I have read and agree to the",
+      "termsLink": "Terms & Conditions",
+      "and": "and",
+      "privacyLink": "Privacy Policy",
+      "submit": "Create Account",
+      "loading": "Creating account…",
+      "hasAccount": "Already have an account?",
+      "signIn": "Sign in",
+      "mustAgree": "You must accept the Terms & Conditions"
+    }
+  },
+  "common": {
+    "loading": "Loading…",
+    "error": "Something went wrong.",
+    "save": "Save Changes",
+    "saving": "Saving…",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "reset": "Reset",
+    "upload": "Upload",
+    "uploading": "Uploading…",
+    "submit": "Submit",
+    "back": "Back",
+    "next": "Next",
+    "finish": "Finish",
+    "skip": "Skip for now",
+    "yes": "Yes",
+    "no": "No",
+    "or": "or",
+    "score": "Score",
+    "band": {
+      "elite": "Elite",
+      "trusted": "Trusted",
+      "rising": "Rising",
+      "probation": "Probation",
+      "suspended": "Suspended"
+    }
+  },
+  "lang": {
+    "en": "English",
+    "si": "සිංහල",
+    "ta": "தமிழ்"
+  }
+}
