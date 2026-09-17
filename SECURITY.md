@@ -7,7 +7,12 @@ Do not open a public issue. Report it privately through GitHub's
 address in the repository profile.
 
 Please include what you found, how to reproduce it, and what an attacker could
-do with it. You will get an acknowledgement within a few days.
+do with it.
+
+Be aware that this project is shared as-is and not actively maintained, so there
+is **no guaranteed response time and no commitment to issue a fix**. If you are
+running this code, treat yourself as responsible for patching it. The list below
+of what this codebase does not protect against is the honest starting point.
 
 ## What this codebase does
 

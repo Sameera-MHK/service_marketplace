@@ -1,6 +1,13 @@
 # Contributing
 
-Thanks for taking an interest. Issues and pull requests are both welcome.
+Thanks for taking an interest.
+
+> **Before you invest time:** this project is shared as-is and is not actively
+> maintained. Issues and pull requests may not get a response. If you need a
+> change, forking is the reliable path — the licence explicitly allows it.
+>
+> The conventions below are here so that a fork stays coherent, and so anyone
+> picking the code up can read it the way it was written.
 
 ## Getting set up
 

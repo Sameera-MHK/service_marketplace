@@ -12,9 +12,18 @@ React · Vite · Tailwind · Node · Express · MongoDB · Stripe · LiveKit
 
 ![Walkthrough](docs/screenshots/00-walkthrough.gif)
 
+**Production code, not a tutorial project** — this powers a live services
+marketplace with real clients, real professionals and real payments.
+Released free for anyone to use.
+
 </div>
 
 ---
+
+> **Shared as-is, and not actively maintained.** It is complete and it works,
+> but I am not developing it further. Fork it and make it yours — issues and
+> pull requests may not get a response. No warranty, no support, no obligations
+> either way.
 
 > **This is a reference implementation.** Names, branding, regions, seed data,
 > currency, plan prices and legal copy are deliberately generic placeholders.
@@ -231,7 +240,12 @@ Set them up in [docs/CONFIGURATION.md](docs/CONFIGURATION.md#optional-integratio
 
 ## Contributing
 
-Issues and pull requests are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
+This project is shared as-is and is not actively maintained, so pull requests
+may sit unreviewed. You are very welcome to fork it and take it in your own
+direction — that is what it is here for.
+
+If you do want to contribute back, [CONTRIBUTING.md](CONTRIBUTING.md) describes
+the conventions the codebase follows.
 
 ## Licence
 
